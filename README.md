@@ -1,2 +1,2 @@
-# ProjetosPython
- Projetos de python: Jogos, apps, etc.
+# Projetos Python
+ Projetos pessoais de python: Jogos, apps, etc.
